@@ -2,4 +2,4 @@ Order ID: ID001_80001
 Customer ID: 80001
 Product Code: CS01
 Weight: 50.15
-Date: 9/12/2024 3:34:39 PM
+Date: 2024-09-12 15:34:39
