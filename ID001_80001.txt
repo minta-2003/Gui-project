@@ -1,0 +1,5 @@
+Order ID: ID001_80001
+Customer ID: 80001
+Product Code: SP23
+Weight: 200
+Date: 9/12/2024 3:18:28 PM
