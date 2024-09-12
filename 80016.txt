@@ -1,5 +1,0 @@
-ID: 80016
-Name: khang dep gái
-Phone: 01233123123
-Birth Year: 2003
-Gender: Nam
