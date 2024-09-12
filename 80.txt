@@ -1,5 +1,0 @@
-ID: 80
-Name: Tam
-Phone: 09344
-Birth Year: 2003
-Gender: Nam
