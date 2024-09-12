@@ -1,5 +1,0 @@
-ID: 80017
-Name: bé đạt
-Phone: 32423423
-Birth Year: 2003
-Gender: Nam
