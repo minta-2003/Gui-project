@@ -1,5 +1,0 @@
-ID: NT015
-Name: Minh Tam
-Phone: 0943294234
-Birth Year: 2003
-Gender: Nam
